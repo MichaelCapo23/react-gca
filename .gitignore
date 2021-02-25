@@ -21,4 +21,4 @@
 node_modules
 
 #package json/lock
-package.json
+package-lock.json
